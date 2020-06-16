@@ -1,0 +1,17 @@
+o my god my heart is paining (heart)
+am having difficulty in breathing (breathing)
+I have seviere headache ()
+I cant breath
+feeling dizzy
+losing balance
+losing sense
+----------------------------
+COVID
+SARI
+SARS
+OTHER desiases
+-----------------------------------------
+https://pytorch.org/tutorials/
+Rasgo (tabulat data)
+Weights & Biases (model vizualizing) https://app.wandb.ai/ajv009
+Streamlit https://www.streamlit.io/
