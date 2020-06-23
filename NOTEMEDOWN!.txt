@@ -15,3 +15,27 @@ https://pytorch.org/tutorials/
 Rasgo (tabulat data)
 Weights & Biases (model vizualizing) https://app.wandb.ai/ajv009
 Streamlit https://www.streamlit.io/
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+- Call word (witty) e.x. Witty am not feeling well
+-- emails to close relatives
+-- call ? hospital / relatives
+Walking stick stand
+- Computer Vision 
+Vibration
+Ultrasonic
+A python script
+- loop start ********************************************
+- wait for call word
+- capture statements
+- send to wit.ai api
+- wit.ai response
+- Evaluate response 
+- send sms and trigger call using twilio
+- LOOOP again till switched off ************************
+- company brought the project so the source code is not available! But Wit.ai ID will be acceable for evaluation!
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
