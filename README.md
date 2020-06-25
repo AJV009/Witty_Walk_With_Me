@@ -16,7 +16,7 @@ Some document on the intenet supporting this case
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199841/
 
 Problems faced by the “elderly staying alone”
-![Survey Image](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199841/bin/IJPC-24-465-g004.jpg)
+![Survey Image](/1img.jpg)
 
 ## What it does (current stage)
 - Listens to users distress sounds.
