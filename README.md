@@ -15,8 +15,8 @@ And this is where my "Witty" comes to scene! Witty intelligently understands the
 Some document on the intenet supporting this case
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199841/
 
-Problems faced by the “elderly staying alone”
-![Survey Image](/1img.jpg)
+**Problems faced by the “elderly staying alone”**
+- ![Survey Image](/1img.jpg)
 
 ## What it does (current stage)
 - Listens to users distress sounds.
