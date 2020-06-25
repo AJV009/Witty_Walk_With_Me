@@ -1,13 +1,22 @@
 # Witty Walk With Me
+Project submitted for Facebook AI Hackathon on Devpost.
+- [FB AI Hackathon link](https://fbai2.devpost.com/)
+- [Devpost project link](https://devpost.com/software/witty-walk-with-me)
 
 ## Inspiration
 I got the inspiration to develop a smart walking start from my relatives and my father gave me the idea and mum helped in building the walking stick. This was really fun. And my first Devpost & FB Hackathon. 
 **A Walking stick built for the people who are alone.**
 
 A quick overview regarding people living alone.
-Ex. If, when people around you hear you saying "Hey my heart is paining badly!" they will surely rush you to the nearest hospital or at-least call your nearest/closest friend/neighbor/relative, and done you are almost saved!
+**Ex.** If, when people around you hear you saying "Hey my heart is paining badly!" they will surely rush you to the nearest hospital or at-least call your nearest/closest friend/neighbor/relative, and done you are almost saved!
 But now think what if you were alone in this situation, and what if that was a **sign of a Heart Attack**. You are probably dead by the time someone realizes that there is no movement from this house for a long time!
 And this is where my "Witty" comes to scene! Witty intelligently understands the users distress calls and triggers a event like sms or call as per configuration.
+
+Some document on the intenet supporting this case
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199841/
+
+Problems faced by the “elderly staying alone”
+![Survey Image](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199841/bin/IJPC-24-465-g004.jpg)
 
 ## What it does (current stage)
 - Listens to users distress sounds.
@@ -42,18 +51,16 @@ I faced a ton of challenges in this project.
 - Wit.ai
 
 ## What's next for Witty Walk With Me
-- PyTorch CV for surrounding environment detection
+- PyTorch CV for surrounding environment detection.
 - Fold-able wheels attached under the stand so that it can move around the house also pull the user to a specific path just like a autonomous car.
-- Ultrasonic based object detection so that it can work without light too
-- Use lighter board such as RPI Nano and more sensitive microphone make the whole project smaller and safe for kids too.
+- Ultrasonic based object detection so that it can work without light too.
+- Use lighter board such as RPI Nano and more sensitive microphone, make the whole project smaller and safe for kids too.
 - Audio device pair-able for voice based interaction.
-- **I have a very good feeling that such bots like "Witty" will be needed a lot in houses where people live alone with no one to assist.**
+- **I have a very good feeling that bots like "Witty" will be needed a lot in houses where people live alone with no one to assist.**
 
 
 ### Some understandable demo code
 ```python
-!echo 'xeon' | timeout 4 rec temp.wav
-
 import json
 json_file = open('keys.json')
 json_data = json.load(json_file)
@@ -78,5 +85,5 @@ T_MSG = "Hi, you have a emergency msg from your dear! -> '"+text+"!'"
 client = Client(account_sid, auth_token)
 
 if trait_value=='call' and trait_confidence>=0.75:
-    message = client.messages.create( to="+918237842347", from_="+12245076842", body=T_MSG)
+    message = client.messages.create( to="+91xxxxxxxxxx", from_="+1xxxxxxxxxx", body=T_MSG)
 ```
