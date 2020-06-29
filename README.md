@@ -56,6 +56,7 @@ I faced a ton of challenges in this project.
 - Ultrasonic based object detection so that it can work without light too.
 - Use lighter board such as RPI Nano and more sensitive microphone, make the whole project smaller and safe for kids too.
 - Audio device pair-able for voice based interaction.
+- Keep on building as a personla project using different frameworks and tools like PyTorch, TF & OpenVINO.
 - **I have a very good feeling that bots like "Witty" will be needed a lot in houses where people live alone with no one to assist.**
 
 
