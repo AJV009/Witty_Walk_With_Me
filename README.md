@@ -3,6 +3,8 @@ Project submitted for Facebook AI Hackathon on Devpost.
 - [FB AI Hackathon link](https://fbai2.devpost.com/)
 - [Devpost project link](https://devpost.com/software/witty-walk-with-me)
 
+## NOTE: Repo archived. Newer improved and working model soon available.
+
 ## Inspiration
 I got the inspiration to develop a smart walking start from my relatives and my father gave me the idea and mum helped in building the walking stick. This was really fun. And my first Devpost & FB Hackathon. 
 **A Walking stick built for the people who are alone.**
